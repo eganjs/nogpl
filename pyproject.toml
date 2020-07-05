@@ -5,7 +5,7 @@ description = ""
 authors = ["Joseph Egan <joseph.s.egan@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6"
 click = "^7.1.2"
 toml = "^0.10.1"
 
